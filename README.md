@@ -5,6 +5,14 @@
 - Elyjaiah Durden (1977092)
 - Nirmal John (2052312)
 
+## Requirements
+
+To run the forecasting notebook:
+
+/bash
+pip install pandas numpy matplotlib statsmodels
+
+
 ## Project Overview
 This project explores COVID-19 data provided by Our World in Data (OWID) to:
 - Analyze pandemic trends.
