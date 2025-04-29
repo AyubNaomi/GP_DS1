@@ -6,7 +6,6 @@
 - Nirmal John (2052312)
 
 ## Requirements
-
 To run the forecasting notebook:
 
 /bash
