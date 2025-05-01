@@ -38,7 +38,7 @@ Each group member handled one major coding task:
 To run the Python notebooks, make sure the following Python libraries are installed:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
+pip install pandas numpy matplotlib seaborn scikit-learn statsmodels plotly tdqm
 ```
 ### ▶️ Steps to Execute
 1. Clone the repository or download the project files.
