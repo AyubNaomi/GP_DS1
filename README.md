@@ -49,6 +49,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels plotly tdqm
    - seaborn
    - scikit-learn
    - statsmodels
+   - plotly
+   - tdqm
 3. Open the notebooks (`.ipynb`) using Jupyter Notebook, Visual Studio Code, or any Jupyter-compatible environment.
 4. Run each notebook cell sequentially to reproduce the analysis and results.
 
